@@ -11,7 +11,7 @@
 - Javascript
 - Machine Learning
 # 💯 EXPERIENCE
--  I’m currently working as Trader &  INVESTMENT PORTAFOLIO MANAGER ASSISTANT on Etinka Investments
+-  I’m currently working as Trader &  Ivestment Portafolio Manager Assitanst on Etinka Investments
 - I have used Software Programming for Statistics test and estimating  Econometrics Models in University Subjects and my Job
 - I have used Software Programming for building a Diversified Portfolio using Matrix Correlation
 - I have used Software Programming for optimizing an Investmet Portafolio 
@@ -25,7 +25,8 @@
 - SQL
 - INTERACTIVE BROKER
 - SEO
-# 🔭I`m looking for help with backend and Frontend programing 
+- 
+# 🔭I`m looking for help with backend and Frontend programing
 	
 	
 ![MaycoholV's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaycoholV&theme=dark&show_icons=true)
