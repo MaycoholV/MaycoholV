@@ -1,5 +1,5 @@
 
-# man_investor: , Im Maycohol !
+# man_technologist: , Im Maycohol !
 
 -  ⚡ Quick bio : I am a nineth semester Economics student with keen interest in Investment Management, Professional Trading and Equity Research. I consider myself a student with multiple interests and high capabilities in leadership, management, effective communication, innovation and working under pressure👋
 - 𝗜 ❤️ Finance and Econonomics
