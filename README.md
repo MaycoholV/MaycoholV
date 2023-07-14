@@ -1,8 +1,8 @@
 # ABOUT ME 
 # 👨‍💻: Hi, I am Maycohol Villalobos !
 
--  ⚡ I am an  Economics student,  at Pontifical Catholic Univeristy of Peru, with keen interest in Investment Management, Professional Trading and Equity Research. I consider myself a student with multiple interests and high capabilities in leadership, management, effective communication, innovation and working under pressure👋
-- 𝗜 ❤️ Finance and Econonomics
+-  ⚡ I am an Economics student at Pontifical Catholic University of Peru, with a keen interest in Investment Management, Venture Capital,  Professional Trading, and Equity Research. I consider myself a student with multiple interests and high capabilities in leadership, management, effective communication, innovation, and working under pressure.👋
+- 𝗜 ❤️ Finance and Economics
   
 # 🌱: I am currently learnig 
 - Python
