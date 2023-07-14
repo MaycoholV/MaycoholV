@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there, "I`m a nineth semester Economics student with keen interest in Investment Management, Professional Trading and Equity Research. I consider myself a student with multiple interests and high capabilities in leadership, management, effective communication, innovation and working under pressure👋
 
 <!--
 **MaycoholV/MaycoholV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Etinka Investments
+###- 🔭 I’m currently working on Etinka Investments
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
