@@ -4,8 +4,13 @@
 -  ⚡ I am an  Economics student,  at Pontifical Catholic Univeristy of Peru, with keen interest in Investment Management, Professional Trading and Equity Research. I consider myself a student with multiple interests and high capabilities in leadership, management, effective communication, innovation and working under pressure👋
 - 𝗜 ❤️ Finance and Econonomics
   
-# 👨‍💻: Hi, I am Maycohol Villalobos !
-
+# 💯: I am currently learnig 
+- Python
+- R studio
+- Portafolio Optmization with Programming Methods
+- Javascript
+- Machine Learning
+# EXPERIENCE
 	"- 🔭 I’m currently working on":      "Etinka Investment as Trader &  INVESTMENT PORTAFOLIO MANAGER ASSISTANT",
 		"- 🌱 I’m currently learning":        "Pyhthon, Javascripts, R studio and  Machine Learnign,
 		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
