@@ -25,10 +25,6 @@
 - SQL
 - INTERACTIVE BROKER
 - SEO
-- 
-# 🔭I`m looking for help with backend and Frontend programing
-	
-	
 ![MaycoholV's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaycoholV&theme=dark&show_icons=true)
 ```
 
