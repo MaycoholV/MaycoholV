@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 
 
-# Hello, Im Ethan!
+# Hello, Im Maycohol !
 
-- 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗶𝗻 𝗵𝗶𝗴𝗵 𝘀𝗰𝗵𝗼𝗼𝗹
-- 𝗜 ❤️ 𝗟𝗼𝘄 𝗟𝗲𝘃𝗲𝗹 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
+-  I am a nineth semester Economics student with keen interest in Investment Management, Professional Trading and Equity Research. I consider myself a student with multiple interests and high capabilities in leadership, management, effective communication, innovation and working under pressure👋
+- 𝗜 ❤️ Finance and Econonomics!
 
-```julia
+```
 module main
 
 aboutMe :: struct {
@@ -64,8 +64,8 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <span>r</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/r.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
