@@ -25,6 +25,8 @@
 - SQL
 - INTERACTIVE BROKER
 - SEO
+
+  
 ![MaycoholV's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaycoholV&theme=dark&show_icons=true)
 ```
 
