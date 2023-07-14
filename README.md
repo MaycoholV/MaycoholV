@@ -7,7 +7,7 @@
 # 🌱: I am currently learnig 
 - Python
 - R studio
-- Portafolio Optmization with Programming Methods
+- Portafolio Optmization Methods using Software Programming 
 - Javascript
 - Machine Learning
 # 💯 EXPERIENCE
@@ -28,7 +28,6 @@
 # 🔭I`m looking for help with backend and Frontend programing 
 	
 	
--->
 ![MaycoholV's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaycoholV&theme=dark&show_icons=true)
 ```
 
